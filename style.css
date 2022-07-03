@@ -19,6 +19,7 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 200px;
 }
 
 .sakib {
