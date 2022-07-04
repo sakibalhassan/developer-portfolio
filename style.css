@@ -25,6 +25,7 @@ p {
 .sakib {
     width: 50%;
     padding-left: 5%;
+
 }
 
 .sakib img {
@@ -56,4 +57,30 @@ p {
     background-image: url(./images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-left: 7px solid red;
+
+}
+
+.experiance {
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+#baby {
+    border-left: 7px solid green;
+}
+
+footer p {
+    text-align: center;
 }
